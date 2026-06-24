@@ -1,4 +1,4 @@
-# LX Music 自定义音源（gdstudio）
+# 落雪音乐免费音源
 
 基于 [music-api.gdstudio.xyz](https://music-api.gdstudio.xyz) 的洛雪音乐自定义音源脚本，提供多平台音乐播放链接。
 
