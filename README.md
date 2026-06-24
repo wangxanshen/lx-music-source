@@ -1,10 +1,12 @@
 # 落雪音乐免费音源
 
-基于 [music-api.gdstudio.xyz](https://music-api.gdstudio.xyz) 的洛雪音乐自定义音源脚本，提供多平台音乐播放链接。
+使用声明：
+本仓库是基于 [music-api.gdstudio.xyz](https://music-api.gdstudio.xyz) 开发的落雪音乐音源链接，提供多平台音乐播放资源。
+不得用于商用，不得广泛传播。
 
 ## 导入链接
 
-在洛雪音乐 **设置 → 基本设置 → 音乐来源 → 自定义源管理 → 在线导入** 中输入以下任一链接：
+在洛雪音乐 **设置 → 基本设置 → 自定义源 → 在线导入** 中输入以下任一链接：
 
 ```
 https://raw.githubusercontent.com/wangxanshen/lx-music-source/main/gdstudio-source.js
@@ -22,9 +24,9 @@ https://gcore.jsdelivr.net/gh/wangxanshen/lx-music-source@main/gdstudio-source.j
 
 ## 功能
 
-- 支持 wy（网易云）、kw（酷我）、tx（QQ 音乐）、kg（酷狗）、mg（咪咕）五个音源
-- 多音质：128k / 320k / FLAC / FLAC 24bit，不可用时自动降级
-- 搜索结果缓存，减少重复请求
+- 支持 wy（网易云）、kw（酷我）、tx（QQ 音乐）、kg（酷狗）、mg（咪咕）五个音源。
+- 多音质：128k / 320k / FLAC / FLAC 24bit，不可用时自动降级。
+- 搜索结果缓存，减少重复请求。
 
 ## 致谢
 
